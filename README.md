@@ -10,6 +10,3 @@ Folders in the repo:
 - Datasets: Containing train and test data
 - Code: Containing code files for different parts of the model pipeline: Data preprocessing, EDA, Visualizations, Model Building and Analysis
 
-
-Results of the project: 
-
