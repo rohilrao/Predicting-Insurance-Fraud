@@ -1,6 +1,6 @@
 # Predicting-Insurance-Fraud
 This repo contains Machine Learning and Data mining R code for a prediction framework to identify fraudulent claims for a major general insurance organization.
-Acurately predicted fraud in insurance claims. Results obtained over multiple iterations of the entire data-science pipeline: data pre-processing, feature engineering, model selection, hyper-parameter tuning and performance analysis on validation and test data. to a
+The model acurately predicted fraud in insurance claims. Results were obtained over multiple iterations of the entire data-science pipeline: data pre-processing, feature engineering, model selection, hyper-parameter tuning and performance analysis on validation and test data. to a
 
 Project Objectives: 
 -	To build a sophisticated prediction model using machine learning that can classify fraudulent insurance claims using the ‘F1 statistic' as an error metric for the model accuracy
